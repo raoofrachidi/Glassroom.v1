@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## Use
 
-1. Place your CSV files and the config.json file in the same directory as the script.
+1. Place your CSV, config.json and JSON key files in the same directory as the Python script.
 2. Run the :
 ```
 python main.py
